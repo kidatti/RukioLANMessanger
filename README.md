@@ -2,6 +2,8 @@
 
 Rukio LAN Messengerのバイナリ配布用リポジトリです。
 
+> **macOS版について:** v1.4.2はApple公証がなく、通常のダウンロード時に起動を拒否されます。現在、Developer ID署名・公証済みの版を準備しています。今後はGatekeeper検証に合格したmacOS版だけを一般配布します。
+
 [最新版をダウンロード](https://github.com/kidatti/RukioLANMessanger/releases/latest)
 
 v1.4.2からアプリ内で更新確認・ダウンロード・更新して再起動を行えます。既存版からは、更新機能を搭載した版を一度手動で導入してください。
